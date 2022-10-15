@@ -136,7 +136,7 @@ The link to the Rossmann Bot is [![image](https://img.shields.io/badge/Telegram-
 
 
 <div align="center">
-<img src="https://github.com/smbaptistag/rossmann_sales_prediction/blob/main/images/telegram_bot.gif" width="200px">
+<img src="https://github.com/smbaptistag/rossmann_sales_prediction/blob/main/images/telegram_bot.gif" width="300px">
 </div>
 </br>
 
