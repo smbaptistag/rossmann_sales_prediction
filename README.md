@@ -130,9 +130,15 @@ The XGBoost Regressor model was chosen for the hyperparameter tuning. Although i
 This application, the user must send in Telegram Bot the <b> "store_number" (e.g. 22, 26, 80, etc) </b>, from which he wants to get the sales prediction for the next 6 weeks. Thus, the bot will return a message with the prediction. If a store number is non existent the message "Store Not Available" will be returned, and if you provide a text that isn't a number the bot will ask you to enter a valid store id.
 </p>
 
-To link to chat with the Rossmann Bot is [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rossmann_sales_model_bot)
+The link to the Rossmann Bot is [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rossmann_sales_model_bot)
 
 <i> Note: It can take a few minutes for the bot to respond, <b> on the first request. </b> </i>
+
+
+<div align="center">
+<img src="images/telegram_bot.jpg" width="400px" border="10px">
+</div>
+</br>
 
 
 ## 08 CONCLUSIONS
