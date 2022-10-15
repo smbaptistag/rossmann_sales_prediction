@@ -103,7 +103,7 @@ Every model were cross-validated and its performance were compared.
 The performance cross-validated for all 4 algorithms are displayed below:
 
 <div align="center">
-<img src="images/ml_performance.png" width="400px">
+<img src="images/ml_performance.png" width="500px">
 </div>
 </br>
 
