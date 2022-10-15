@@ -2,7 +2,7 @@
 Sales projection for a retail chain for the next 6 weeks.
 
 <div align="center">
-<img src="images/rossmann_logo.jpg" width="400px" border="10px">
+<img src="https://github.com/smbaptistag/rossmann_sales_prediction/blob/main/images/rossmann_logo.jpg" width="400px" border="10px">
 </div>
 </br>
 
@@ -103,7 +103,7 @@ Every model were cross-validated and its performance were compared.
 The performance cross-validated for all 4 algorithms are displayed below:
 
 <div align="center">
-<img src="images/ml_performance.png" width="500px">
+<img src="https://github.com/smbaptistag/rossmann_sales_prediction/blob/main/images/ml_performance.png" width="500px">
 </div>
 </br>
 
@@ -136,7 +136,7 @@ The link to the Rossmann Bot is [![image](https://img.shields.io/badge/Telegram-
 
 
 <div align="center">
-<img src="images/telegram_bot.jpg" width="400px" border="10px">
+<img src="https://github.com/smbaptistag/rossmann_sales_prediction/blob/main/images/telegram_bot.gif" width="400px" border="10px">
 </div>
 </br>
 
