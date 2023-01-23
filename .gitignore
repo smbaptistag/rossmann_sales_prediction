@@ -23,7 +23,6 @@ var/
 wheels/
 datasets/
 models_performance/
-rossmann_telegram_bot/
 api/
 webapp
 share/python-wheels/
